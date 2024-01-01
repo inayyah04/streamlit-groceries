@@ -219,4 +219,4 @@ dengan ini kita dapat menarik kesimpulan bahwa supermarket ini dapat menerapkan 
 
 ## Deployment
 
-Link Streamlit:
+Link Streamlit: https://app-groceries-fnupg4c4nei2kwpaobdmy6.streamlit.app/
